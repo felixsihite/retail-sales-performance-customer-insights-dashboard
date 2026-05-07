@@ -1,0 +1,4 @@
+data/raw/Online_Retail.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/fact_sales.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/online_retail_clean.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/online_retail_analytics.db filter=lfs diff=lfs merge=lfs -text

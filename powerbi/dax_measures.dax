@@ -1,0 +1,65 @@
+-- Core KPI measures
+Total Revenue = 
+SUMX (
+    fact_sales,
+    fact_sales[quantity] * fact_sales[unit_price]
+)
+
+Total Orders =
+DISTINCTCOUNT ( fact_sales[invoice_no] )
+
+Active Customers =
+CALCULATE (
+    DISTINCTCOUNT ( fact_sales[customer_id] ),
+    fact_sales[customer_id] <> BLANK()
+)
+
+Average Order Value =
+DIVIDE ( [Total Revenue], [Total Orders] )
+
+Revenue Per Customer =
+DIVIDE ( [Total Revenue], [Active Customers] )
+
+Return Amount = 
+SUMX (
+    fact_returns,
+    ABS ( fact_returns[quantity] ) * fact_returns[unit_price]
+)
+
+Return Rate % =
+DIVIDE ( [Return Amount], [Total Revenue] )
+
+-- Revenue mix
+New Customer Revenue =
+CALCULATE (
+    [Total Revenue],
+    fact_sales[customer_order_type] = "New"
+)
+
+Repeat Customer Revenue =
+CALCULATE (
+    [Total Revenue],
+    fact_sales[customer_order_type] = "Repeat"
+)
+
+Repeat Revenue % =
+DIVIDE ( [Repeat Customer Revenue], [New Customer Revenue] + [Repeat Customer Revenue] )
+
+Merchandise Revenue =
+CALCULATE (
+    [Total Revenue],
+    fact_sales[line_type] = "Merchandise"
+)
+
+-- Segment and product analytics
+Segment Customers =
+DISTINCTCOUNT ( dim_customer_rfm[customer_id] )
+
+Segment Revenue =
+SUM ( dim_customer_rfm[monetary_value] )
+
+Top Product Revenue =
+CALCULATE (
+    [Total Revenue],
+    fact_sales[line_type] = "Merchandise"
+)

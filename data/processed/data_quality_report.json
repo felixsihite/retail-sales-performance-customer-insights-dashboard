@@ -1,0 +1,10 @@
+{
+  "raw_rows": 541909,
+  "missing_description_rows": 1454,
+  "missing_customer_rows": 135080,
+  "return_rows": 10624,
+  "zero_or_negative_price_rows": 2517,
+  "countries": 38,
+  "date_min": "2010-12-01 08:26:00",
+  "date_max": "2011-12-09 12:50:00"
+}
