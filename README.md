@@ -21,6 +21,24 @@ The goal is to help a retail business answer four practical questions:
 - README with insights and recommendations
 - Power BI dashboard specification and DAX measures
 
+## Dataset Source
+
+This project uses the Online Retail dataset publicly available on Kaggle.
+
+Dataset:
+- Online Retail Dataset
+
+Source:
+- https://www.kaggle.com/datasets/tunguz/online-retail
+
+The dataset contains transactional retail data including:
+- Invoice information
+- Product purchases
+- Customer IDs
+- Country-level transactions
+- Quantity and pricing data
+- Return/cancellation activity
+
 ## Tech Stack
 
 - Python: `pandas`, `numpy`
