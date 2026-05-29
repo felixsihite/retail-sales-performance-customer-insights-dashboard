@@ -1,0 +1,607 @@
+invoice_month_start,country,product_category,return_amount,return_orders,return_units
+2010-12-01,United Kingdom,Fees & Adjustments,57163.26,27,32
+2010-12-01,United Kingdom,Home Decor & Lighting,4847.06,124,11410
+2010-12-01,United Kingdom,Kitchen & Dining,2483.87,96,723
+2010-12-01,United Kingdom,Holiday & Seasonal,2256.33,40,1098
+2010-12-01,United Kingdom,Storage & Organization,2190.55,57,709
+2010-12-01,United Kingdom,Miscellaneous,1715.04,122,4711
+2010-12-01,Sweden,Storage & Organization,1188.0,1,240
+2010-12-01,EIRE,Home Decor & Lighting,325.2,4,78
+2010-12-01,United Kingdom,Party & Gift,318.51,5,199
+2010-12-01,United Kingdom,Stationery & Crafts,298.09000000000003,15,171
+2010-12-01,EIRE,Holiday & Seasonal,295.41,3,203
+2010-12-01,Germany,Kitchen & Dining,272.9,5,38
+2010-12-01,EIRE,Kitchen & Dining,169.95000000000002,2,71
+2010-12-01,United Kingdom,Garden & Outdoor,169.85,7,46
+2010-12-01,EIRE,Garden & Outdoor,142.8,1,24
+2010-12-01,Israel,Kitchen & Dining,136.0,1,32
+2010-12-01,Germany,Storage & Organization,112.6,5,42
+2010-12-01,Germany,Toys & Kids,100.3,4,12
+2010-12-01,Israel,Storage & Organization,91.44,1,24
+2010-12-01,Germany,Miscellaneous,81.65,4,29
+2010-12-01,United Kingdom,Accessories & Fashion,49.05,8,21
+2010-12-01,Germany,Holiday & Seasonal,43.6,2,16
+2010-12-01,Germany,Home Decor & Lighting,39.349999999999994,5,11
+2010-12-01,United Kingdom,Toys & Kids,34.75,3,5
+2010-12-01,EIRE,Accessories & Fashion,29.75,1,7
+2010-12-01,Australia,Storage & Organization,27.75,1,13
+2010-12-01,EIRE,Storage & Organization,25.200000000000003,1,12
+2010-12-01,Austria,Party & Gift,20.16,1,48
+2010-12-01,France,Toys & Kids,19.9,1,2
+2010-12-01,Germany,Fees & Adjustments,18.0,1,1
+2010-12-01,Italy,Home Decor & Lighting,17.0,1,2
+2010-12-01,EIRE,Miscellaneous,15.0,1,4
+2010-12-01,Portugal,Kitchen & Dining,15.0,1,12
+2010-12-01,Portugal,Miscellaneous,15.0,1,12
+2010-12-01,Portugal,Stationery & Crafts,15.0,1,12
+2010-12-01,Portugal,Storage & Organization,14.85,1,3
+2010-12-01,France,Storage & Organization,12.750000000000002,2,5
+2010-12-01,Germany,Stationery & Crafts,9.9,1,6
+2010-12-01,France,Home Decor & Lighting,4.949999999999999,1,3
+2010-12-01,France,Party & Gift,3.35,1,1
+2011-01-01,United Kingdom,Kitchen & Dining,80503.3,102,75026
+2011-01-01,United Kingdom,Fees & Adjustments,36852.15,15,74
+2011-01-01,United Kingdom,Home Decor & Lighting,2975.25,103,1349
+2011-01-01,United Kingdom,Storage & Organization,2845.59,57,956
+2011-01-01,Spain,Fees & Adjustments,2841.85,2,2
+2011-01-01,United Kingdom,Miscellaneous,2007.85,136,9836
+2011-01-01,United Kingdom,Stationery & Crafts,683.4300000000001,11,590
+2011-01-01,United Kingdom,Holiday & Seasonal,646.0,19,231
+2011-01-01,United Kingdom,Garden & Outdoor,310.84,13,128
+2011-01-01,Germany,Kitchen & Dining,248.69,7,63
+2011-01-01,Bahrain,Home Decor & Lighting,205.74,1,54
+2011-01-01,France,Kitchen & Dining,125.9,5,14
+2011-01-01,Japan,Storage & Organization,106.05,1,42
+2011-01-01,United Kingdom,Accessories & Fashion,100.95,4,45
+2011-01-01,EIRE,Home Decor & Lighting,81.55,1,35
+2011-01-01,Germany,Home Decor & Lighting,75.35,5,41
+2011-01-01,Spain,Kitchen & Dining,65.69999999999999,1,6
+2011-01-01,France,Fees & Adjustments,54.0,1,3
+2011-01-01,Germany,Storage & Organization,53.599999999999994,3,16
+2011-01-01,EIRE,Holiday & Seasonal,52.94,1,30
+2011-01-01,EIRE,Fees & Adjustments,50.0,1,1
+2011-01-01,Portugal,Kitchen & Dining,45.0,1,12
+2011-01-01,Sweden,Fees & Adjustments,40.0,1,1
+2011-01-01,United Kingdom,Toys & Kids,38.8,5,16
+2011-01-01,Germany,Miscellaneous,33.120000000000005,4,19
+2011-01-01,Channel Islands,Home Decor & Lighting,30.5,1,4
+2011-01-01,Germany,Garden & Outdoor,28.7,2,2
+2011-01-01,France,Storage & Organization,28.200000000000003,2,16
+2011-01-01,EIRE,Garden & Outdoor,23.4,1,12
+2011-01-01,Belgium,Miscellaneous,19.05,1,3
+2011-01-01,France,Home Decor & Lighting,19.0,2,10
+2011-01-01,EIRE,Kitchen & Dining,17.700000000000003,1,6
+2011-01-01,United Kingdom,Party & Gift,17.52,4,16
+2011-01-01,Italy,Storage & Organization,17.15,1,11
+2011-01-01,Belgium,Home Decor & Lighting,15.849999999999998,2,3
+2011-01-01,EIRE,Miscellaneous,15.0,1,4
+2011-01-01,Belgium,Storage & Organization,11.25,1,3
+2011-01-01,Italy,Stationery & Crafts,11.25,1,9
+2011-01-01,Germany,Toys & Kids,10.08,1,24
+2011-01-01,France,Toys & Kids,9.95,1,1
+2011-01-01,Portugal,Storage & Organization,9.65,1,3
+2011-01-01,Italy,Kitchen & Dining,7.649999999999999,1,3
+2011-01-01,Germany,Stationery & Crafts,6.6,1,4
+2011-01-01,Italy,Home Decor & Lighting,5.1,1,2
+2011-01-01,EIRE,Party & Gift,4.5600000000000005,1,12
+2011-01-01,Japan,Toys & Kids,3.75,1,3
+2011-01-01,Germany,Holiday & Seasonal,3.2699999999999996,1,2
+2011-01-01,Portugal,Home Decor & Lighting,2.95,1,1
+2011-01-01,EIRE,Storage & Organization,2.52,1,6
+2011-02-01,United Kingdom,Fees & Adjustments,16751.18,24,256
+2011-02-01,United Kingdom,Kitchen & Dining,1712.29,63,715
+2011-02-01,EIRE,Storage & Organization,1540.8,1,288
+2011-02-01,United Kingdom,Storage & Organization,1139.45,39,296
+2011-02-01,United Kingdom,Home Decor & Lighting,1079.3,75,415
+2011-02-01,EIRE,Kitchen & Dining,1008.0,1,384
+2011-02-01,United Kingdom,Miscellaneous,756.8299999999999,87,5977
+2011-02-01,Cyprus,Fees & Adjustments,320.69,1,1
+2011-02-01,Germany,Kitchen & Dining,193.91,7,33
+2011-02-01,Germany,Storage & Organization,182.75,8,65
+2011-02-01,United Kingdom,Holiday & Seasonal,127.7,8,30
+2011-02-01,United Kingdom,Stationery & Crafts,109.92,8,36
+2011-02-01,Germany,Miscellaneous,81.9,6,14
+2011-02-01,United Kingdom,Garden & Outdoor,68.57,6,23
+2011-02-01,Australia,Storage & Organization,53.1,1,18
+2011-02-01,Germany,Home Decor & Lighting,47.05,3,19
+2011-02-01,Netherlands,Fees & Adjustments,45.0,1,3
+2011-02-01,France,Fees & Adjustments,36.0,2,2
+2011-02-01,Germany,Fees & Adjustments,36.0,2,2
+2011-02-01,Netherlands,Party & Gift,34.8,1,24
+2011-02-01,EIRE,Home Decor & Lighting,25.8,1,4
+2011-02-01,Germany,Toys & Kids,25.5,1,3
+2011-02-01,United Kingdom,Toys & Kids,24.599999999999998,4,8
+2011-02-01,Germany,Garden & Outdoor,17.4,1,12
+2011-02-01,Belgium,Storage & Organization,16.8,2,4
+2011-02-01,France,Kitchen & Dining,16.5,2,27
+2011-02-01,Germany,Accessories & Fashion,15.3,1,6
+2011-02-01,Australia,Home Decor & Lighting,14.85,1,3
+2011-02-01,France,Storage & Organization,14.85,1,3
+2011-02-01,Spain,Kitchen & Dining,12.899999999999999,1,2
+2011-02-01,Germany,Stationery & Crafts,12.0,1,8
+2011-02-01,United Kingdom,Party & Gift,10.2,1,12
+2011-02-01,Switzerland,Miscellaneous,8.5,1,1
+2011-02-01,Spain,Home Decor & Lighting,7.9,1,2
+2011-02-01,France,Home Decor & Lighting,6.300000000000001,1,3
+2011-02-01,Italy,Fees & Adjustments,4.5,1,1
+2011-02-01,Switzerland,Storage & Organization,3.75,1,1
+2011-02-01,France,Stationery & Crafts,3.4,1,4
+2011-02-01,Belgium,Stationery & Crafts,2.95,1,1
+2011-03-01,United Kingdom,Fees & Adjustments,16801.41,36,1047
+2011-03-01,EIRE,Fees & Adjustments,3374.34,2,2
+2011-03-01,United Kingdom,Kitchen & Dining,3090.45,107,653
+2011-03-01,Hong Kong,Fees & Adjustments,2583.76,1,1
+2011-03-01,United Kingdom,Home Decor & Lighting,2480.77,112,905
+2011-03-01,United Kingdom,Storage & Organization,1742.28,71,539
+2011-03-01,United Kingdom,Miscellaneous,1164.84,183,28220
+2011-03-01,Norway,Fees & Adjustments,840.3,2,3
+2011-03-01,United Kingdom,Holiday & Seasonal,476.55,8,255
+2011-03-01,United Kingdom,Stationery & Crafts,307.88,17,476
+2011-03-01,United Kingdom,Garden & Outdoor,274.59000000000003,11,356
+2011-03-01,Sweden,Miscellaneous,180.0,1,144
+2011-03-01,Australia,Home Decor & Lighting,107.5,1,86
+2011-03-01,Norway,Home Decor & Lighting,87.63,1,45
+2011-03-01,United Kingdom,Accessories & Fashion,84.55,7,73
+2011-03-01,Japan,Fees & Adjustments,79.17,3,3
+2011-03-01,Germany,Storage & Organization,76.75,8,25
+2011-03-01,Germany,Kitchen & Dining,72.15,3,9
+2011-03-01,United Kingdom,Toys & Kids,64.05,9,21
+2011-03-01,Australia,Kitchen & Dining,61.2,1,24
+2011-03-01,Germany,Miscellaneous,52.269999999999996,5,20
+2011-03-01,EIRE,Home Decor & Lighting,39.94,3,16
+2011-03-01,United Kingdom,Party & Gift,35.519999999999996,4,28
+2011-03-01,France,Home Decor & Lighting,30.6,2,20
+2011-03-01,Japan,Stationery & Crafts,30.6,1,12
+2011-03-01,Spain,Kitchen & Dining,25.5,1,2
+2011-03-01,France,Toys & Kids,21.65,1,7
+2011-03-01,France,Holiday & Seasonal,20.4,1,24
+2011-03-01,Italy,Fees & Adjustments,18.0,1,1
+2011-03-01,Norway,Kitchen & Dining,17.700000000000003,1,6
+2011-03-01,Germany,Home Decor & Lighting,16.1,4,6
+2011-03-01,Norway,Storage & Organization,15.0,1,12
+2011-03-01,Saudi Arabia,Kitchen & Dining,14.75,1,5
+2011-03-01,Finland,Kitchen & Dining,12.2,1,2
+2011-03-01,Belgium,Kitchen & Dining,9.9,1,6
+2011-03-01,Italy,Home Decor & Lighting,9.9,1,2
+2011-03-01,Japan,Miscellaneous,9.9,1,2
+2011-03-01,Poland,Home Decor & Lighting,8.94,1,6
+2011-03-01,Belgium,Storage & Organization,8.5,1,1
+2011-03-01,Spain,Toys & Kids,8.5,1,1
+2011-03-01,Germany,Garden & Outdoor,3.75,1,3
+2011-03-01,Poland,Kitchen & Dining,2.95,1,1
+2011-03-01,Poland,Miscellaneous,2.5,1,2
+2011-03-01,Spain,Storage & Organization,2.5,1,2
+2011-03-01,Japan,Storage & Organization,2.17,1,2
+2011-03-01,Germany,Holiday & Seasonal,1.65,1,1
+2011-03-01,Japan,Home Decor & Lighting,0.72,1,1
+2011-04-01,United Kingdom,Home Decor & Lighting,15010.21,96,5791
+2011-04-01,United Kingdom,Miscellaneous,7837.360000000001,238,13019
+2011-04-01,Singapore,Fees & Adjustments,6090.84,2,5
+2011-04-01,United Kingdom,Kitchen & Dining,5098.849999999999,74,1938
+2011-04-01,United Kingdom,Fees & Adjustments,3723.7,16,31
+2011-04-01,United Kingdom,Storage & Organization,1772.16,51,718
+2011-04-01,Japan,Storage & Organization,1642.8999999999999,2,642
+2011-04-01,France,Fees & Adjustments,1201.3,3,5
+2011-04-01,Australia,Home Decor & Lighting,425.0,1,100
+2011-04-01,United Kingdom,Stationery & Crafts,306.51,11,288
+2011-04-01,Germany,Fees & Adjustments,222.75,1,1
+2011-04-01,United Kingdom,Garden & Outdoor,213.2,12,56
+2011-04-01,Switzerland,Storage & Organization,208.85,2,103
+2011-04-01,United Kingdom,Holiday & Seasonal,121.35,5,53
+2011-04-01,United Kingdom,Toys & Kids,105.75,8,27
+2011-04-01,France,Miscellaneous,75.0,1,60
+2011-04-01,Switzerland,Toys & Kids,45.900000000000006,1,6
+2011-04-01,Germany,Miscellaneous,45.36,4,30
+2011-04-01,United Kingdom,Party & Gift,45.34,4,44
+2011-04-01,Finland,Fees & Adjustments,40.0,1,1
+2011-04-01,France,Kitchen & Dining,38.25,1,3
+2011-04-01,Czech Republic,Home Decor & Lighting,35.76,1,24
+2011-04-01,Germany,Storage & Organization,31.700000000000003,2,13
+2011-04-01,Cyprus,Storage & Organization,29.9,1,2
+2011-04-01,United Kingdom,Accessories & Fashion,29.290000000000003,3,8
+2011-04-01,Japan,Kitchen & Dining,26.75,1,11
+2011-04-01,Germany,Home Decor & Lighting,24.550000000000004,2,7
+2011-04-01,Germany,Kitchen & Dining,22.81,4,17
+2011-04-01,Czech Republic,Garden & Outdoor,21.75,1,15
+2011-04-01,Finland,Kitchen & Dining,21.33,1,27
+2011-04-01,Belgium,Storage & Organization,19.88,2,5
+2011-04-01,Australia,Miscellaneous,13.2,1,8
+2011-04-01,France,Home Decor & Lighting,11.9,1,2
+2011-04-01,Belgium,Home Decor & Lighting,9.45,1,3
+2011-04-01,France,Storage & Organization,7.95,1,1
+2011-04-01,Japan,Miscellaneous,6.300000000000001,1,3
+2011-04-01,Belgium,Fees & Adjustments,6.0,1,2
+2011-04-01,Cyprus,Home Decor & Lighting,5.9,1,2
+2011-04-01,Germany,Garden & Outdoor,3.3,1,2
+2011-04-01,Germany,Accessories & Fashion,1.7,1,2
+2011-04-01,Finland,Miscellaneous,0.78,1,2
+2011-04-01,Japan,Home Decor & Lighting,0.72,1,1
+2011-05-01,United Kingdom,Fees & Adjustments,34299.53,45,1822
+2011-05-01,Portugal,Fees & Adjustments,3614.4,5,5
+2011-05-01,United Kingdom,Home Decor & Lighting,2677.69,106,1816
+2011-05-01,United Kingdom,Storage & Organization,1995.7,62,785
+2011-05-01,United Kingdom,Kitchen & Dining,1686.9399999999998,86,525
+2011-05-01,United Kingdom,Miscellaneous,1355.78,179,13591
+2011-05-01,United Kingdom,Garden & Outdoor,328.02,19,136
+2011-05-01,Channel Islands,Fees & Adjustments,293.0,1,1
+2011-05-01,United Kingdom,Stationery & Crafts,227.98000000000002,18,134
+2011-05-01,United Kingdom,Holiday & Seasonal,165.62,7,46
+2011-05-01,United Kingdom,Party & Gift,66.69,5,53
+2011-05-01,Germany,Miscellaneous,56.45,4,9
+2011-05-01,United Kingdom,Toys & Kids,49.3,5,19
+2011-05-01,Germany,Kitchen & Dining,38.879999999999995,4,16
+2011-05-01,France,Fees & Adjustments,36.0,1,2
+2011-05-01,France,Miscellaneous,33.95,2,3
+2011-05-01,Switzerland,Kitchen & Dining,32.849999999999994,1,3
+2011-05-01,EIRE,Home Decor & Lighting,29.849999999999998,2,3
+2011-05-01,Germany,Storage & Organization,26.92,3,12
+2011-05-01,EIRE,Miscellaneous,24.96,1,12
+2011-05-01,Germany,Garden & Outdoor,21.9,1,2
+2011-05-01,Germany,Fees & Adjustments,18.0,1,1
+2011-05-01,EIRE,Kitchen & Dining,17.55,3,9
+2011-05-01,Sweden,Home Decor & Lighting,17.0,2,4
+2011-05-01,France,Kitchen & Dining,12.75,1,1
+2011-05-01,EIRE,Storage & Organization,12.5,1,1
+2011-05-01,Switzerland,Home Decor & Lighting,9.95,1,1
+2011-05-01,Australia,Holiday & Seasonal,9.9,1,6
+2011-05-01,Germany,Stationery & Crafts,9.9,2,2
+2011-05-01,Channel Islands,Home Decor & Lighting,7.9,1,1
+2011-05-01,Germany,Accessories & Fashion,7.8,2,4
+2011-05-01,Belgium,Home Decor & Lighting,5.4,1,4
+2011-05-01,France,Home Decor & Lighting,5.1,1,2
+2011-05-01,Channel Islands,Miscellaneous,2.55,1,1
+2011-05-01,EIRE,Accessories & Fashion,2.55,1,1
+2011-05-01,United Kingdom,Accessories & Fashion,1.25,1,1
+2011-06-01,United Kingdom,Fees & Adjustments,53155.45,31,148
+2011-06-01,United Kingdom,Home Decor & Lighting,4179.349999999999,117,1679
+2011-06-01,EIRE,Fees & Adjustments,3690.3199999999997,4,4
+2011-06-01,United Kingdom,Kitchen & Dining,3000.29,99,1844
+2011-06-01,United Kingdom,Miscellaneous,2640.25,169,19151
+2011-06-01,United Kingdom,Storage & Organization,1675.66,90,28767
+2011-06-01,EIRE,Storage & Organization,441.15,1,190
+2011-06-01,EIRE,Miscellaneous,193.32999999999998,3,144
+2011-06-01,EIRE,Home Decor & Lighting,178.07999999999998,1,139
+2011-06-01,EIRE,Garden & Outdoor,141.87,1,25
+2011-06-01,France,Home Decor & Lighting,137.7,2,93
+2011-06-01,United Kingdom,Accessories & Fashion,137.20000000000002,7,15
+2011-06-01,France,Storage & Organization,84.0,2,44
+2011-06-01,United Kingdom,Party & Gift,83.65,2,17
+2011-06-01,EIRE,Kitchen & Dining,80.25000000000001,4,27
+2011-06-01,France,Miscellaneous,71.7,2,38
+2011-06-01,Poland,Home Decor & Lighting,64.8,2,8
+2011-06-01,United Kingdom,Stationery & Crafts,64.47,13,62
+2011-06-01,United Kingdom,Garden & Outdoor,62.1,6,11
+2011-06-01,Germany,Storage & Organization,61.88,5,24
+2011-06-01,EIRE,Party & Gift,40.56,1,24
+2011-06-01,Germany,Fees & Adjustments,36.0,1,2
+2011-06-01,Italy,Miscellaneous,33.9,1,2
+2011-06-01,Germany,Kitchen & Dining,32.699999999999996,3,18
+2011-06-01,France,Stationery & Crafts,30.5,1,41
+2011-06-01,EIRE,Stationery & Crafts,26.55,1,9
+2011-06-01,Germany,Stationery & Crafts,24.4,1,54
+2011-06-01,France,Accessories & Fashion,23.4,1,12
+2011-06-01,Australia,Home Decor & Lighting,23.0,1,8
+2011-06-01,Switzerland,Kitchen & Dining,21.95,1,5
+2011-06-01,Austria,Storage & Organization,21.25,1,5
+2011-06-01,Germany,Toys & Kids,19.71,2,5
+2011-06-01,United Kingdom,Toys & Kids,18.9,4,5
+2011-06-01,Netherlands,Miscellaneous,15.0,1,12
+2011-06-01,United Kingdom,Holiday & Seasonal,15.0,1,4
+2011-06-01,Germany,Home Decor & Lighting,14.19,3,17
+2011-06-01,Malta,Home Decor & Lighting,12.75,1,3
+2011-06-01,EIRE,Toys & Kids,11.25,1,9
+2011-06-01,Poland,Kitchen & Dining,9.95,1,1
+2011-06-01,France,Kitchen & Dining,9.24,1,36
+2011-06-01,European Community,Kitchen & Dining,8.5,1,2
+2011-06-01,Italy,Home Decor & Lighting,5.9,1,2
+2011-06-01,Portugal,Storage & Organization,4.95,1,1
+2011-06-01,Germany,Miscellaneous,4.2,1,2
+2011-06-01,Poland,Storage & Organization,4.16,1,2
+2011-06-01,Austria,Kitchen & Dining,2.95,1,1
+2011-06-01,Belgium,Kitchen & Dining,1.65,1,1
+2011-06-01,Spain,Fees & Adjustments,0.77,1,1
+2011-07-01,United Kingdom,Fees & Adjustments,25965.54,39,77
+2011-07-01,United Kingdom,Home Decor & Lighting,4240.21,101,2086
+2011-07-01,United Kingdom,Storage & Organization,2138.51,61,4202
+2011-07-01,United Kingdom,Kitchen & Dining,1478.33,69,617
+2011-07-01,United Kingdom,Miscellaneous,1050.44,167,7912
+2011-07-01,United Kingdom,Garden & Outdoor,742.25,13,183
+2011-07-01,United Kingdom,Holiday & Seasonal,441.34999999999997,7,405
+2011-07-01,Germany,Fees & Adjustments,391.33,2,2
+2011-07-01,United Kingdom,Stationery & Crafts,278.02,14,412
+2011-07-01,United Kingdom,Accessories & Fashion,157.68,4,114
+2011-07-01,Switzerland,Fees & Adjustments,120.0,1,3
+2011-07-01,France,Home Decor & Lighting,111.19999999999999,3,8
+2011-07-01,Switzerland,Stationery & Crafts,102.0,1,120
+2011-07-01,Germany,Storage & Organization,97.94,5,15
+2011-07-01,Germany,Kitchen & Dining,76.46999999999998,5,13
+2011-07-01,Germany,Toys & Kids,68.0,1,8
+2011-07-01,Australia,Home Decor & Lighting,61.91,2,47
+2011-07-01,Australia,Kitchen & Dining,54.89,1,22
+2011-07-01,Greece,Fees & Adjustments,50.0,1,1
+2011-07-01,Spain,Kitchen & Dining,46.75,1,11
+2011-07-01,Germany,Stationery & Crafts,46.29,3,45
+2011-07-01,Australia,Storage & Organization,39.7,1,16
+2011-07-01,EIRE,Kitchen & Dining,33.85,3,7
+2011-07-01,Australia,Miscellaneous,29.619999999999997,1,41
+2011-07-01,Germany,Miscellaneous,14.54,2,18
+2011-07-01,EIRE,Miscellaneous,12.75,1,1
+2011-07-01,United Kingdom,Party & Gift,12.27,3,13
+2011-07-01,Germany,Garden & Outdoor,10.95,1,1
+2011-07-01,United Kingdom,Toys & Kids,10.4,3,5
+2011-07-01,Poland,Home Decor & Lighting,8.850000000000001,1,3
+2011-07-01,Germany,Home Decor & Lighting,8.85,2,2
+2011-07-01,Germany,Accessories & Fashion,4.95,1,1
+2011-07-01,Australia,Stationery & Crafts,4.65,1,3
+2011-07-01,Australia,Toys & Kids,4.59,1,3
+2011-07-01,EIRE,Home Decor & Lighting,2.6,1,4
+2011-07-01,Belgium,Storage & Organization,1.95,1,1
+2011-07-01,Australia,Garden & Outdoor,1.45,1,1
+2011-08-01,United Kingdom,Fees & Adjustments,29518.54,37,252
+2011-08-01,United Kingdom,Home Decor & Lighting,6541.34,97,3142
+2011-08-01,United Kingdom,Kitchen & Dining,4580.46,74,2046
+2011-08-01,United Kingdom,Miscellaneous,3187.8,117,7819
+2011-08-01,EIRE,Holiday & Seasonal,1568.72,1,1188
+2011-08-01,EIRE,Fees & Adjustments,1555.69,2,2
+2011-08-01,EIRE,Kitchen & Dining,1536.91,5,479
+2011-08-01,United Kingdom,Storage & Organization,1439.26,62,784
+2011-08-01,EIRE,Miscellaneous,909.6800000000001,5,498
+2011-08-01,United Kingdom,Stationery & Crafts,751.07,11,860
+2011-08-01,United Kingdom,Accessories & Fashion,575.5799999999999,6,392
+2011-08-01,EIRE,Home Decor & Lighting,358.07,3,99
+2011-08-01,Netherlands,Fees & Adjustments,312.0,2,481
+2011-08-01,Netherlands,Home Decor & Lighting,266.40000000000003,1,144
+2011-08-01,EIRE,Storage & Organization,265.88,5,147
+2011-08-01,Denmark,Miscellaneous,134.55,1,9
+2011-08-01,Netherlands,Miscellaneous,93.6,1,144
+2011-08-01,Germany,Kitchen & Dining,83.99000000000001,6,18
+2011-08-01,United Kingdom,Toys & Kids,67.85,5,45
+2011-08-01,United Kingdom,Holiday & Seasonal,59.8,3,22
+2011-08-01,United Kingdom,Garden & Outdoor,47.839999999999996,8,8
+2011-08-01,Switzerland,Kitchen & Dining,38.050000000000004,3,11
+2011-08-01,Germany,Storage & Organization,33.25,4,17
+2011-08-01,Germany,Miscellaneous,29.400000000000002,2,14
+2011-08-01,Italy,Kitchen & Dining,25.5,3,14
+2011-08-01,United Kingdom,Party & Gift,23.32,3,14
+2011-08-01,Germany,Home Decor & Lighting,22.4,3,7
+2011-08-01,Switzerland,Miscellaneous,21.75,1,15
+2011-08-01,France,Storage & Organization,21.700000000000003,1,10
+2011-08-01,Japan,Storage & Organization,20.55,1,7
+2011-08-01,Japan,Stationery & Crafts,20.0,1,16
+2011-08-01,Switzerland,Storage & Organization,18.15,3,7
+2011-08-01,Germany,Fees & Adjustments,18.0,1,1
+2011-08-01,Italy,Miscellaneous,17.0,1,2
+2011-08-01,Norway,Stationery & Crafts,15.0,1,12
+2011-08-01,Portugal,Home Decor & Lighting,15.0,1,12
+2011-08-01,Norway,Miscellaneous,14.5,1,10
+2011-08-01,Belgium,Storage & Organization,13.649999999999999,1,7
+2011-08-01,Spain,Garden & Outdoor,12.75,1,1
+2011-08-01,Norway,Kitchen & Dining,11.85,1,3
+2011-08-01,Germany,Stationery & Crafts,10.08,1,24
+2011-08-01,Malta,Home Decor & Lighting,9.95,1,1
+2011-08-01,Italy,Home Decor & Lighting,9.9,1,2
+2011-08-01,Sweden,Stationery & Crafts,9.9,1,6
+2011-08-01,Switzerland,Home Decor & Lighting,9.75,1,5
+2011-08-01,Malta,Holiday & Seasonal,5.8,1,4
+2011-08-01,Finland,Kitchen & Dining,4.95,1,1
+2011-08-01,Belgium,Kitchen & Dining,4.25,1,1
+2011-08-01,Channel Islands,Kitchen & Dining,4.25,1,1
+2011-08-01,Japan,Miscellaneous,4.2,1,2
+2011-08-01,Italy,Stationery & Crafts,3.75,1,1
+2011-08-01,Spain,Home Decor & Lighting,3.75,1,1
+2011-08-01,Japan,Toys & Kids,3.39,1,1
+2011-08-01,Japan,Home Decor & Lighting,1.65,1,1
+2011-08-01,EIRE,Stationery & Crafts,1.33,1,7
+2011-09-01,United Kingdom,Fees & Adjustments,19161.97,39,341
+2011-09-01,United Kingdom,Home Decor & Lighting,7707.6900000000005,122,2421
+2011-09-01,United Kingdom,Kitchen & Dining,3612.9,84,1155
+2011-09-01,United Kingdom,Storage & Organization,2683.8,80,1600
+2011-09-01,Hong Kong,Fees & Adjustments,2653.95,1,1
+2011-09-01,United Kingdom,Miscellaneous,800.4399999999999,153,18590
+2011-09-01,United Kingdom,Stationery & Crafts,415.96,23,786
+2011-09-01,United Kingdom,Holiday & Seasonal,243.74,18,127
+2011-09-01,EIRE,Storage & Organization,203.25,6,114
+2011-09-01,United Kingdom,Toys & Kids,173.85,15,74
+2011-09-01,Germany,Kitchen & Dining,135.47,6,29
+2011-09-01,United Kingdom,Party & Gift,134.17,9,29
+2011-09-01,Germany,Home Decor & Lighting,111.47,8,41
+2011-09-01,EIRE,Kitchen & Dining,102.7,8,40
+2011-09-01,France,Kitchen & Dining,81.1,3,38
+2011-09-01,United Kingdom,Garden & Outdoor,78.55,5,15
+2011-09-01,Germany,Storage & Organization,70.94,5,34
+2011-09-01,EIRE,Home Decor & Lighting,69.64999999999999,3,7
+2011-09-01,France,Miscellaneous,46.2,1,28
+2011-09-01,France,Toys & Kids,45.58,3,10
+2011-09-01,United Kingdom,Accessories & Fashion,45.25,4,8
+2011-09-01,Australia,Home Decor & Lighting,39.6,1,24
+2011-09-01,Australia,Storage & Organization,35.400000000000006,1,12
+2011-09-01,EIRE,Miscellaneous,28.45,2,3
+2011-09-01,Germany,Miscellaneous,24.830000000000002,4,11
+2011-09-01,EIRE,Garden & Outdoor,19.9,1,2
+2011-09-01,Switzerland,Kitchen & Dining,18.25,3,9
+2011-09-01,France,Fees & Adjustments,18.0,1,1
+2011-09-01,Germany,Fees & Adjustments,18.0,1,1
+2011-09-01,EIRE,Holiday & Seasonal,17.6,2,4
+2011-09-01,France,Storage & Organization,16.39,1,3
+2011-09-01,Spain,Home Decor & Lighting,12.75,1,1
+2011-09-01,Spain,Kitchen & Dining,12.75,1,1
+2011-09-01,France,Accessories & Fashion,11.7,1,6
+2011-09-01,Belgium,Stationery & Crafts,10.2,1,12
+2011-09-01,France,Home Decor & Lighting,10.2,1,4
+2011-09-01,Germany,Party & Gift,10.2,1,12
+2011-09-01,Switzerland,Miscellaneous,7.5,1,2
+2011-09-01,EIRE,Fees & Adjustments,5.95,1,1
+2011-09-01,Switzerland,Storage & Organization,4.15,1,1
+2011-09-01,Channel Islands,Home Decor & Lighting,2.1,1,1
+2011-10-01,United Kingdom,Fees & Adjustments,24616.75,48,684
+2011-10-01,United Kingdom,Storage & Organization,12454.630000000001,79,8021
+2011-10-01,United Kingdom,Home Decor & Lighting,8923.63,142,5067
+2011-10-01,France,Fees & Adjustments,8322.12,1,2
+2011-10-01,United Kingdom,Stationery & Crafts,7646.12,26,4456
+2011-10-01,Singapore,Fees & Adjustments,6068.0599999999995,1,2
+2011-10-01,United Kingdom,Kitchen & Dining,2963.96,95,1338
+2011-10-01,United Kingdom,Holiday & Seasonal,2272.0,35,1219
+2011-10-01,United Kingdom,Miscellaneous,2221.71,211,34386
+2011-10-01,Spain,Home Decor & Lighting,1693.8400000000001,1,776
+2011-10-01,Spain,Storage & Organization,978.6,1,156
+2011-10-01,Portugal,Fees & Adjustments,622.04,2,2
+2011-10-01,Germany,Fees & Adjustments,617.5,2,2
+2011-10-01,Spain,Kitchen & Dining,448.34999999999997,2,65
+2011-10-01,Spain,Miscellaneous,417.5,1,10
+2011-10-01,USA,Kitchen & Dining,365.64,1,231
+2011-10-01,EIRE,Miscellaneous,311.20000000000005,2,84
+2011-10-01,EIRE,Accessories & Fashion,278.40000000000003,2,78
+2011-10-01,USA,Storage & Organization,267.05,1,199
+2011-10-01,USA,Home Decor & Lighting,253.47,1,173
+2011-10-01,USA,Miscellaneous,204.87,1,121
+2011-10-01,USA,Stationery & Crafts,203.68,1,285
+2011-10-01,Cyprus,Garden & Outdoor,196.35,1,33
+2011-10-01,United Kingdom,Garden & Outdoor,187.82999999999998,11,73
+2011-10-01,EIRE,Home Decor & Lighting,174.25,5,52
+2011-10-01,USA,Holiday & Seasonal,172.0,1,147
+2011-10-01,Germany,Kitchen & Dining,160.73000000000002,6,25
+2011-10-01,United Kingdom,Toys & Kids,149.37,10,47
+2011-10-01,EIRE,Kitchen & Dining,136.2,4,51
+2011-10-01,Germany,Miscellaneous,98.65,6,32
+2011-10-01,EIRE,Garden & Outdoor,86.10000000000001,1,30
+2011-10-01,United Kingdom,Party & Gift,77.92,8,65
+2011-10-01,France,Miscellaneous,60.84,1,36
+2011-10-01,Germany,Accessories & Fashion,60.45,1,11
+2011-10-01,USA,Toys & Kids,54.9,1,30
+2011-10-01,Germany,Storage & Organization,54.690000000000005,4,21
+2011-10-01,USA,Party & Gift,40.5,1,30
+2011-10-01,Italy,Miscellaneous,38.2,2,5
+2011-10-01,France,Accessories & Fashion,35.400000000000006,1,12
+2011-10-01,Belgium,Kitchen & Dining,34.0,2,14
+2011-10-01,Switzerland,Storage & Organization,31.2,2,10
+2011-10-01,Italy,Kitchen & Dining,26.9,2,6
+2011-10-01,United Kingdom,Accessories & Fashion,22.9,4,8
+2011-10-01,France,Storage & Organization,21.8,4,15
+2011-10-01,Spain,Stationery & Crafts,20.0,1,16
+2011-10-01,EIRE,Storage & Organization,19.05,2,7
+2011-10-01,Denmark,Fees & Adjustments,18.0,1,1
+2011-10-01,Finland,Fees & Adjustments,18.0,1,1
+2011-10-01,USA,Garden & Outdoor,17.4,1,12
+2011-10-01,Germany,Toys & Kids,17.0,1,2
+2011-10-01,Italy,Home Decor & Lighting,13.8,2,4
+2011-10-01,Germany,Home Decor & Lighting,11.93,5,7
+2011-10-01,France,Kitchen & Dining,11.8,1,4
+2011-10-01,Hong Kong,Kitchen & Dining,10.95,1,1
+2011-10-01,Denmark,Home Decor & Lighting,10.85,1,5
+2011-10-01,Denmark,Holiday & Seasonal,10.5,1,25
+2011-10-01,Denmark,Stationery & Crafts,10.4,1,5
+2011-10-01,EIRE,Holiday & Seasonal,5.1,1,6
+2011-10-01,Germany,Stationery & Crafts,3.2,2,4
+2011-10-01,Denmark,Kitchen & Dining,2.9,1,2
+2011-10-01,France,Home Decor & Lighting,1.45,1,1
+2011-11-01,United Kingdom,Fees & Adjustments,20589.469999999998,36,265
+2011-11-01,United Kingdom,Home Decor & Lighting,7521.42,171,3716
+2011-11-01,United Kingdom,Kitchen & Dining,5548.08,107,2024
+2011-11-01,United Kingdom,Storage & Organization,3824.75,90,2093
+2011-11-01,United Kingdom,Miscellaneous,2167.48,216,19639
+2011-11-01,United Kingdom,Holiday & Seasonal,1232.55,48,589
+2011-11-01,Germany,Fees & Adjustments,1031.86,3,4
+2011-11-01,United Kingdom,Toys & Kids,720.49,9,109
+2011-11-01,United Kingdom,Stationery & Crafts,560.61,34,922
+2011-11-01,Germany,Kitchen & Dining,345.45,7,53
+2011-11-01,Hong Kong,Fees & Adjustments,326.1,1,1
+2011-11-01,France,Miscellaneous,271.43999999999994,3,372
+2011-11-01,Australia,Fees & Adjustments,262.73,1,1
+2011-11-01,Germany,Home Decor & Lighting,217.9,7,39
+2011-11-01,France,Kitchen & Dining,210.3,5,26
+2011-11-01,France,Holiday & Seasonal,205.32,1,346
+2011-11-01,Italy,Miscellaneous,201.9,3,19
+2011-11-01,United Kingdom,Party & Gift,189.6,9,143
+2011-11-01,Germany,Miscellaneous,184.28,8,349
+2011-11-01,Germany,Storage & Organization,182.73000000000002,8,74
+2011-11-01,Australia,Holiday & Seasonal,174.0,1,120
+2011-11-01,EIRE,Kitchen & Dining,167.16,4,44
+2011-11-01,France,Fees & Adjustments,144.0,3,8
+2011-11-01,Malta,Fees & Adjustments,130.0,1,2
+2011-11-01,Finland,Fees & Adjustments,120.0,2,3
+2011-11-01,United Kingdom,Garden & Outdoor,104.86,12,29
+2011-11-01,France,Storage & Organization,101.25999999999999,5,38
+2011-11-01,France,Home Decor & Lighting,94.88000000000001,4,10
+2011-11-01,Spain,Kitchen & Dining,87.65,2,27
+2011-11-01,United Kingdom,Accessories & Fashion,81.12,4,41
+2011-11-01,Sweden,Fees & Adjustments,80.0,1,2
+2011-11-01,EIRE,Home Decor & Lighting,69.65,7,29
+2011-11-01,Italy,Kitchen & Dining,59.1,3,12
+2011-11-01,Spain,Storage & Organization,57.44,1,26
+2011-11-01,Belgium,Holiday & Seasonal,48.85,1,7
+2011-11-01,Czech Republic,Home Decor & Lighting,35.76,1,24
+2011-11-01,Italy,Home Decor & Lighting,35.5,2,10
+2011-11-01,EIRE,Storage & Organization,34.28,2,14
+2011-11-01,France,Toys & Kids,34.0,1,4
+2011-11-01,Malta,Home Decor & Lighting,29.75,1,7
+2011-11-01,EIRE,Holiday & Seasonal,27.29,3,4
+2011-11-01,Italy,Fees & Adjustments,26.33,1,1
+2011-11-01,Czech Republic,Garden & Outdoor,21.75,1,15
+2011-11-01,EIRE,Miscellaneous,20.75,2,6
+2011-11-01,Belgium,Home Decor & Lighting,19.95,1,1
+2011-11-01,Sweden,Home Decor & Lighting,18.75,1,5
+2011-11-01,Germany,Stationery & Crafts,18.45,2,13
+2011-11-01,Netherlands,Fees & Adjustments,18.0,1,1
+2011-11-01,Channel Islands,Home Decor & Lighting,16.65,1,1
+2011-11-01,Belgium,Fees & Adjustments,15.0,1,1
+2011-11-01,Poland,Home Decor & Lighting,11.86,1,6
+2011-11-01,Sweden,Storage & Organization,8.67,1,3
+2011-11-01,Poland,Storage & Organization,7.5,1,2
+2011-11-01,Czech Republic,Fees & Adjustments,4.0,1,1
+2011-11-01,EIRE,Garden & Outdoor,3.3,1,2
+2011-11-01,Channel Islands,Kitchen & Dining,2.95,1,1
+2011-11-01,EIRE,Party & Gift,2.95,1,1
+2011-11-01,Belgium,Kitchen & Dining,2.55,1,1
+2011-11-01,Italy,Storage & Organization,2.55,1,1
+2011-11-01,Sweden,Miscellaneous,2.1,1,1
+2011-11-01,Switzerland,Fees & Adjustments,2.0,1,2
+2011-11-01,Italy,Stationery & Crafts,1.95,1,1
+2011-11-01,Malta,Kitchen & Dining,1.06,1,1
+2011-12-01,United Kingdom,Stationery & Crafts,168521.80000000002,7,81129
+2011-12-01,United Kingdom,Fees & Adjustments,30917.47,9,9
+2011-12-01,United Kingdom,Kitchen & Dining,1272.56,40,500
+2011-12-01,United Kingdom,Home Decor & Lighting,1047.13,61,454
+2011-12-01,United Kingdom,Storage & Organization,968.48,37,621
+2011-12-01,United Kingdom,Miscellaneous,650.22,49,5081
+2011-12-01,United Kingdom,Holiday & Seasonal,326.08,16,213
+2011-12-01,Sweden,Miscellaneous,238.0,1,40
+2011-12-01,USA,Miscellaneous,154.8,1,84
+2011-12-01,Japan,Home Decor & Lighting,92.83,1,41
+2011-12-01,France,Fees & Adjustments,80.44,2,22
+2011-12-01,United Kingdom,Toys & Kids,78.34,4,21
+2011-12-01,Germany,Home Decor & Lighting,76.8,3,14
+2011-12-01,United Kingdom,Party & Gift,64.62,3,61
+2011-12-01,France,Kitchen & Dining,57.120000000000005,2,27
+2011-12-01,USA,Storage & Organization,53.8,1,30
+2011-12-01,Germany,Stationery & Crafts,46.269999999999996,4,41
+2011-12-01,Cyprus,Miscellaneous,42.5,1,1
+2011-12-01,France,Miscellaneous,39.44,1,40
+2011-12-01,Cyprus,Home Decor & Lighting,38.85,1,3
+2011-12-01,Germany,Kitchen & Dining,30.28,2,8
+2011-12-01,Malta,Home Decor & Lighting,29.75,1,7
+2011-12-01,France,Storage & Organization,29.25,1,13
+2011-12-01,United Kingdom,Accessories & Fashion,27.36,1,72
+2011-12-01,USA,Kitchen & Dining,25.439999999999998,1,36
+2011-12-01,Japan,Storage & Organization,24.099999999999998,1,8
+2011-12-01,USA,Holiday & Seasonal,20.8,1,10
+2011-12-01,Spain,Kitchen & Dining,18.35,1,5
+2011-12-01,EIRE,Home Decor & Lighting,15.3,1,2
+2011-12-01,USA,Stationery & Crafts,15.120000000000001,1,36
+2011-12-01,France,Holiday & Seasonal,15.12,1,36
+2011-12-01,Spain,Home Decor & Lighting,14.87,1,9
+2011-12-01,Germany,Storage & Organization,14.07,2,5
+2011-12-01,United Kingdom,Garden & Outdoor,12.6,2,2
+2011-12-01,Spain,Holiday & Seasonal,11.56,1,4
+2011-12-01,Germany,Miscellaneous,11.4,2,4
+2011-12-01,Cyprus,Storage & Organization,9.9,1,2
+2011-12-01,France,Home Decor & Lighting,6.72,1,16
+2011-12-01,Portugal,Storage & Organization,6.24,1,3
+2011-12-01,Belgium,Storage & Organization,4.95,1,1
+2011-12-01,Channel Islands,Kitchen & Dining,4.25,1,1
+2011-12-01,EIRE,Miscellaneous,2.55,1,1
+2011-12-01,Finland,Storage & Organization,2.08,1,1
+2011-12-01,Belgium,Miscellaneous,1.65,1,1
+2011-12-01,Malta,Kitchen & Dining,1.06,1,1
+2011-12-01,Belgium,Holiday & Seasonal,0.85,1,1
+2011-12-01,Belgium,Party & Gift,0.85,1,1
+2011-12-01,Germany,Garden & Outdoor,0.65,1,1

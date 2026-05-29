@@ -1,0 +1,15 @@
+[theme]
+base="dark"
+primaryColor="#8B5CF6"
+backgroundColor="#0B1120"
+secondaryBackgroundColor="#111A2E"
+textColor="#F8FAFC"
+
+[theme.sidebar]
+backgroundColor="#0F172A"
+secondaryBackgroundColor="#172033"
+textColor="#E2E8F0"
+
+[server]
+headless=true
+runOnSave=true

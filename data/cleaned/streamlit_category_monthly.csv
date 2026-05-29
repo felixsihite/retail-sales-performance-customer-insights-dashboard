@@ -1,0 +1,131 @@
+invoice_month_start,product_category,revenue,quantity
+2010-12-01,Home Decor & Lighting,266272.81,116845
+2010-12-01,Kitchen & Dining,164591.7,50688
+2010-12-01,Storage & Organization,130195.05,61097
+2010-12-01,Miscellaneous,98040.53,54022
+2010-12-01,Holiday & Seasonal,46175.06,26102
+2010-12-01,Stationery & Crafts,33836.93,27457
+2010-12-01,Party & Gift,12114.21,10948
+2010-12-01,Garden & Outdoor,11177.26,4011
+2010-12-01,Toys & Kids,8993.73,3959
+2010-12-01,Accessories & Fashion,6611.08,3622
+2011-01-01,Home Decor & Lighting,201507.59,97496
+2011-01-01,Kitchen & Dining,189123.99,121047
+2011-01-01,Storage & Organization,126504.59,64154
+2011-01-01,Miscellaneous,79455.41,44673
+2011-01-01,Stationery & Crafts,28491.95,30122
+2011-01-01,Garden & Outdoor,11823.82,4236
+2011-01-01,Party & Gift,10495.34,9293
+2011-01-01,Toys & Kids,9638.3,5501
+2011-01-01,Holiday & Seasonal,7465.04,4607
+2011-01-01,Accessories & Fashion,7311.030000000001,6277
+2011-02-01,Home Decor & Lighting,170457.18,88313
+2011-02-01,Storage & Organization,117877.42,62912
+2011-02-01,Kitchen & Dining,86590.96,37414
+2011-02-01,Miscellaneous,64818.31,44324
+2011-02-01,Stationery & Crafts,29293.49,28861
+2011-02-01,Garden & Outdoor,11398.5,3258
+2011-02-01,Party & Gift,8455.6,6490
+2011-02-01,Holiday & Seasonal,8170.57,5176
+2011-02-01,Toys & Kids,7467.33,4178
+2011-02-01,Accessories & Fashion,4423.51,2325
+2011-03-01,Home Decor & Lighting,196085.9,94737
+2011-03-01,Storage & Organization,178433.45,90417
+2011-03-01,Kitchen & Dining,110352.21,50711
+2011-03-01,Miscellaneous,94904.56,64117
+2011-03-01,Stationery & Crafts,45875.48,40962
+2011-03-01,Party & Gift,19953.52,10513
+2011-03-01,Garden & Outdoor,17684.09,5633
+2011-03-01,Holiday & Seasonal,10309.58,6660
+2011-03-01,Toys & Kids,9795.87,5778
+2011-03-01,Accessories & Fashion,7871.28,7582
+2011-04-01,Home Decor & Lighting,162725.66,95115
+2011-04-01,Storage & Organization,118364.93000000001,61949
+2011-04-01,Kitchen & Dining,81973.3,40734
+2011-04-01,Miscellaneous,72783.39,51623
+2011-04-01,Stationery & Crafts,35234.78,36589
+2011-04-01,Garden & Outdoor,14712.56,5148
+2011-04-01,Party & Gift,11607.09,6755
+2011-04-01,Accessories & Fashion,7565.37,4193
+2011-04-01,Toys & Kids,7068.03,4144
+2011-04-01,Holiday & Seasonal,4274.68,2267
+2011-05-01,Home Decor & Lighting,239668.48,118289
+2011-05-01,Storage & Organization,200775.5,95377
+2011-05-01,Kitchen & Dining,124509.62,63425
+2011-05-01,Miscellaneous,94184.36,58531
+2011-05-01,Stationery & Crafts,31248.77,37077
+2011-05-01,Garden & Outdoor,20984.74,5142
+2011-05-01,Accessories & Fashion,10437.33,5722
+2011-05-01,Party & Gift,10179.32,6113
+2011-05-01,Toys & Kids,7211.35,4287
+2011-05-01,Holiday & Seasonal,1934.92,1411
+2011-06-01,Home Decor & Lighting,264144.6,109673
+2011-06-01,Storage & Organization,190103.45,93722
+2011-06-01,Kitchen & Dining,117364.47,53720
+2011-06-01,Miscellaneous,88525.91,55252
+2011-06-01,Stationery & Crafts,32541.77,47427
+2011-06-01,Garden & Outdoor,18006.95,7271
+2011-06-01,Party & Gift,8592.32,6814
+2011-06-01,Accessories & Fashion,8506.03,7760
+2011-06-01,Toys & Kids,6378.16,3963
+2011-06-01,Holiday & Seasonal,4285.04,3180
+2011-07-01,Home Decor & Lighting,217943.92,110005
+2011-07-01,Storage & Organization,177677.76,93308
+2011-07-01,Kitchen & Dining,120976.51,54894
+2011-07-01,Miscellaneous,80146.51,59208
+2011-07-01,Stationery & Crafts,32022.22,47380
+2011-07-01,Garden & Outdoor,21820.3,8498
+2011-07-01,Holiday & Seasonal,13397.65,9705
+2011-07-01,Accessories & Fashion,10453.210000000001,8060
+2011-07-01,Party & Gift,9328.61,6925
+2011-07-01,Toys & Kids,5371.3099999999995,3349
+2011-08-01,Home Decor & Lighting,210370.6,113549
+2011-08-01,Storage & Organization,206174.88,107180
+2011-08-01,Kitchen & Dining,110109.58,54343
+2011-08-01,Miscellaneous,84098.19,55285
+2011-08-01,Stationery & Crafts,40227.42,46153
+2011-08-01,Holiday & Seasonal,27002.85,16663
+2011-08-01,Party & Gift,14977.31,11132
+2011-08-01,Garden & Outdoor,14969.880000000001,5662
+2011-08-01,Accessories & Fashion,8758.210000000001,7022
+2011-08-01,Toys & Kids,8734.69,4446
+2011-09-01,Home Decor & Lighting,348624.15,159236
+2011-09-01,Storage & Organization,209493.15,109988
+2011-09-01,Kitchen & Dining,164579.3,69441
+2011-09-01,Miscellaneous,120782.05,77619
+2011-09-01,Holiday & Seasonal,87324.26,61018
+2011-09-01,Stationery & Crafts,51075.29,59957
+2011-09-01,Party & Gift,14103.22,11498
+2011-09-01,Garden & Outdoor,13657.26,6641
+2011-09-01,Accessories & Fashion,10547.75,8694
+2011-09-01,Toys & Kids,10030.31,5820
+2011-10-01,Home Decor & Lighting,347384.83,168830
+2011-10-01,Storage & Organization,198846.88,104789
+2011-10-01,Kitchen & Dining,155187.94,61049
+2011-10-01,Miscellaneous,151746.56,78776
+2011-10-01,Holiday & Seasonal,111197.13,83606
+2011-10-01,Stationery & Crafts,83590.08,85623
+2011-10-01,Party & Gift,16415.329999999998,14617
+2011-10-01,Garden & Outdoor,15708.58,6298
+2011-10-01,Toys & Kids,14795.62,7594
+2011-10-01,Accessories & Fashion,11539.41,10519
+2011-11-01,Home Decor & Lighting,457828.53,204927
+2011-11-01,Storage & Organization,263938.54,125461
+2011-11-01,Kitchen & Dining,224806.11000000002,84409
+2011-11-01,Miscellaneous,179015.49,98200
+2011-11-01,Holiday & Seasonal,175635.2,106225
+2011-11-01,Stationery & Crafts,84990.29,87578
+2011-11-01,Party & Gift,22216.13,18661
+2011-11-01,Toys & Kids,19261.760000000002,8638
+2011-11-01,Garden & Outdoor,18062.03,7764
+2011-11-01,Accessories & Fashion,11458.39,8174
+2011-12-01,Stationery & Crafts,189483.28,104876
+2011-12-01,Home Decor & Lighting,151497.07,68008
+2011-12-01,Kitchen & Dining,79026.23,31383
+2011-12-01,Storage & Organization,74963.35,36336
+2011-12-01,Miscellaneous,60412.52,34724
+2011-12-01,Holiday & Seasonal,38680.05,23642
+2011-12-01,Garden & Outdoor,6625.39,3003
+2011-12-01,Party & Gift,5476.48,5596
+2011-12-01,Toys & Kids,5173.81,2716
+2011-12-01,Accessories & Fashion,3882.2599999999998,2974

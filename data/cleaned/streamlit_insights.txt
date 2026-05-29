@@ -1,0 +1,13 @@
+Retail Sales Performance & Customer Insights Dashboard
+
+Total Revenue: 10666684.54
+Total Orders: 19960
+Active Customers: 4338
+Average Order Value: 534.40
+Return Amount: 896812.49
+
+Top insights:
+- Peak month: 2011-11-01 (1509496.33)
+- Lowest month: 2011-02-01 (523631.89)
+- Top category: Home Decor & Lighting (3234511.32)
+- Top country: United Kingdom (9025222.08)

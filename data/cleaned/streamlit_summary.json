@@ -1,0 +1,323 @@
+{
+  "kpis": {
+    "total_revenue": 10666684.54,
+    "total_orders": 19960,
+    "active_customers": 4338,
+    "average_order_value": 534.4,
+    "return_amount": 896812.49,
+    "return_rows": 10624
+  },
+  "peak_month": {
+    "month": "2011-11-01",
+    "revenue": 1509496.33
+  },
+  "lowest_month": {
+    "month": "2011-02-01",
+    "revenue": 523631.89
+  },
+  "top_category": {
+    "category": "Home Decor & Lighting",
+    "revenue": 3234511.32
+  },
+  "top_country": {
+    "country": "United Kingdom",
+    "revenue": 9025222.08
+  },
+  "monthly_revenue": [
+    {
+      "invoice_month_start": "2010-12-01",
+      "revenue": 823746.14,
+      "orders": 1559,
+      "aov": 528.3811032713278
+    },
+    {
+      "invoice_month_start": "2011-01-01",
+      "revenue": 691364.56,
+      "orders": 1086,
+      "aov": 636.6156169429098
+    },
+    {
+      "invoice_month_start": "2011-02-01",
+      "revenue": 523631.89,
+      "orders": 1100,
+      "aov": 476.0289909090909
+    },
+    {
+      "invoice_month_start": "2011-03-01",
+      "revenue": 717639.36,
+      "orders": 1454,
+      "aov": 493.56214580467673
+    },
+    {
+      "invoice_month_start": "2011-04-01",
+      "revenue": 537808.621,
+      "orders": 1246,
+      "aov": 431.62810674157305
+    },
+    {
+      "invoice_month_start": "2011-05-01",
+      "revenue": 770536.02,
+      "orders": 1681,
+      "aov": 458.3795478881618
+    },
+    {
+      "invoice_month_start": "2011-06-01",
+      "revenue": 761739.9,
+      "orders": 1533,
+      "aov": 496.8949119373777
+    },
+    {
+      "invoice_month_start": "2011-07-01",
+      "revenue": 719221.191,
+      "orders": 1475,
+      "aov": 487.60758711864406
+    },
+    {
+      "invoice_month_start": "2011-08-01",
+      "revenue": 759138.38,
+      "orders": 1361,
+      "aov": 557.7798530492286
+    },
+    {
+      "invoice_month_start": "2011-09-01",
+      "revenue": 1058590.172,
+      "orders": 1837,
+      "aov": 576.2603004899293
+    },
+    {
+      "invoice_month_start": "2011-10-01",
+      "revenue": 1154979.3,
+      "orders": 2040,
+      "aov": 566.1663235294118
+    },
+    {
+      "invoice_month_start": "2011-11-01",
+      "revenue": 1509496.33,
+      "orders": 2769,
+      "aov": 545.1413253882268
+    },
+    {
+      "invoice_month_start": "2011-12-01",
+      "revenue": 638792.68,
+      "orders": 819,
+      "aov": 779.9666422466423
+    }
+  ],
+  "top_products": [
+    {
+      "stock_code": "22423",
+      "description": "REGENCY CAKESTAND 3 TIER",
+      "revenue": 174484.74,
+      "units": 13879
+    },
+    {
+      "stock_code": "23843",
+      "description": "PAPER CRAFT , LITTLE BIRDIE",
+      "revenue": 168469.6,
+      "units": 80995
+    },
+    {
+      "stock_code": "85123A",
+      "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "revenue": 106292.77,
+      "units": 37891
+    },
+    {
+      "stock_code": "47566",
+      "description": "PARTY BUNTING",
+      "revenue": 99504.33,
+      "units": 18295
+    },
+    {
+      "stock_code": "85099B",
+      "description": "JUMBO BAG RED RETROSPOT",
+      "revenue": 94340.05,
+      "units": 48474
+    },
+    {
+      "stock_code": "23166",
+      "description": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "revenue": 81700.92000000001,
+      "units": 78033
+    },
+    {
+      "stock_code": "23084",
+      "description": "RABBIT NIGHT LIGHT",
+      "revenue": 66964.99,
+      "units": 30788
+    },
+    {
+      "stock_code": "22086",
+      "description": "PAPER CHAIN KIT 50'S CHRISTMAS",
+      "revenue": 64952.29,
+      "units": 19355
+    },
+    {
+      "stock_code": "84879",
+      "description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "revenue": 59094.93,
+      "units": 36461
+    },
+    {
+      "stock_code": "79321",
+      "description": "CHILLI LIGHTS",
+      "revenue": 54117.76,
+      "units": 10306
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United Kingdom",
+      "line_revenue": 9025222.084
+    },
+    {
+      "country": "Netherlands",
+      "line_revenue": 285446.34
+    },
+    {
+      "country": "EIRE",
+      "line_revenue": 283453.96
+    },
+    {
+      "country": "Germany",
+      "line_revenue": 228867.14
+    },
+    {
+      "country": "France",
+      "line_revenue": 209715.11
+    },
+    {
+      "country": "Australia",
+      "line_revenue": 138521.31
+    },
+    {
+      "country": "Spain",
+      "line_revenue": 61577.11
+    },
+    {
+      "country": "Switzerland",
+      "line_revenue": 57089.9
+    },
+    {
+      "country": "Belgium",
+      "line_revenue": 41196.34
+    },
+    {
+      "country": "Sweden",
+      "line_revenue": 38378.33
+    }
+  ],
+  "category_revenue": [
+    {
+      "product_category": "Home Decor & Lighting",
+      "line_revenue": 3234511.32
+    },
+    {
+      "product_category": "Storage & Organization",
+      "line_revenue": 2193348.95
+    },
+    {
+      "product_category": "Kitchen & Dining",
+      "line_revenue": 1729191.92
+    },
+    {
+      "product_category": "Miscellaneous",
+      "line_revenue": 1268913.79
+    },
+    {
+      "product_category": "Stationery & Crafts",
+      "line_revenue": 717911.75
+    },
+    {
+      "product_category": "Holiday & Seasonal",
+      "line_revenue": 535852.03
+    },
+    {
+      "product_category": "Fees & Adjustments",
+      "line_revenue": 397123.814
+    },
+    {
+      "product_category": "Garden & Outdoor",
+      "line_revenue": 196631.36
+    },
+    {
+      "product_category": "Party & Gift",
+      "line_revenue": 163914.48
+    },
+    {
+      "product_category": "Toys & Kids",
+      "line_revenue": 119920.27
+    },
+    {
+      "product_category": "Accessories & Fashion",
+      "line_revenue": 109364.86
+    }
+  ],
+  "repeat_vs_new_revenue": [
+    {
+      "customer_order_type": "New",
+      "line_revenue": 2253233.583
+    },
+    {
+      "customer_order_type": "Repeat",
+      "line_revenue": 6658174.321
+    }
+  ],
+  "rfm_distribution": [
+    {
+      "rfm_segment": "Champions",
+      "customers": 945,
+      "revenue": 5743052.84
+    },
+    {
+      "rfm_segment": "Loyal Customers",
+      "customers": 506,
+      "revenue": 941247.071
+    },
+    {
+      "rfm_segment": "At Risk",
+      "customers": 465,
+      "revenue": 763985.661
+    },
+    {
+      "rfm_segment": "Hibernating",
+      "customers": 1075,
+      "revenue": 525138.312
+    },
+    {
+      "rfm_segment": "Potential Loyalists",
+      "customers": 390,
+      "revenue": 485586.6
+    },
+    {
+      "rfm_segment": "Need Attention",
+      "customers": 444,
+      "revenue": 170798.39
+    },
+    {
+      "rfm_segment": "Big Spenders",
+      "customers": 92,
+      "revenue": 164399.39
+    },
+    {
+      "rfm_segment": "Promising",
+      "customers": 379,
+      "revenue": 100894.7
+    },
+    {
+      "rfm_segment": "New Customers",
+      "customers": 42,
+      "revenue": 16304.94
+    }
+  ],
+  "data_quality": {
+    "raw_rows": 541909,
+    "missing_description_rows": 1454,
+    "missing_customer_rows": 135080,
+    "return_rows": 10624,
+    "zero_or_negative_price_rows": 2517,
+    "countries": 38,
+    "date_min": "2010-12-01 08:26:00",
+    "date_max": "2011-12-09 12:50:00"
+  }
+}

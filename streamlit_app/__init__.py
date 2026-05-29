@@ -1,0 +1,1 @@
+"""Streamlit application package for the retail analytics portfolio."""
