@@ -204,6 +204,10 @@ Streamlit deployment link:
 
 - `Add after deployment`
 
+Streamlit deployment link:
+
+- [Live Streamlit Dashboard](https://retail-sales-performance-customer-insights-dashboard-ss2lqsyhj.streamlit.app/)
+
 ## App-Ready Data Layer
 
 To make the Streamlit app faster and easier to deploy, the repository includes lightweight app-ready files in `data/cleaned/`. These assets reduce dependence on the largest transaction exports while preserving interactive analytics.
